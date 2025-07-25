@@ -1,5 +1,5 @@
 # node files
-dist
+#dist
 node_modules
 
 # iOS files
@@ -62,6 +62,6 @@ captures
 .vscode/
 
 site
-dist
+#dist
 
 android/build/outputs/logs
